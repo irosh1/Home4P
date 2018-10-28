@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeForPets</string>
+    <string name="login_logo_description">LoginPageLogo</string>
+    <string name="loginEmailHint">Type Your Email...</string>
+    <string name="loginPasswordHint">Password...</string>
+    <string name="login_btn_text">Login To Your Account</string>
+    <string name="loigin_reg_btn_text">Need A New Account?</string>
+</resources>
