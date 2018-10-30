@@ -8,6 +8,50 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:220735967230:android:fbd8788482084df3",
+        "android_client_info": {
+          "package_name": "com.homeforpets.home4pets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220735967230-0qs7ncd9e52st99m9c976d1tmf1hmbdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homeforpets.home4pets",
+            "certificate_hash": "1376b2e8eae9c59fb6532df0c7d142fbd7826d3f"
+          }
+        },
+        {
+          "client_id": "220735967230-2p8jgr5vj4b77e7n2e1dled5tijd7u88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-rbHv8l0O6j9RTiB9PCWh1uPNnqMjlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220735967230-2p8jgr5vj4b77e7n2e1dled5tijd7u88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:220735967230:android:9c07a2a43a37b1ba",
         "android_client_info": {
           "package_name": "com.homeforpets.homeforpets"
@@ -19,6 +63,50 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.homeforpets.homeforpets",
+            "certificate_hash": "1376b2e8eae9c59fb6532df0c7d142fbd7826d3f"
+          }
+        },
+        {
+          "client_id": "220735967230-2p8jgr5vj4b77e7n2e1dled5tijd7u88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-rbHv8l0O6j9RTiB9PCWh1uPNnqMjlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220735967230-2p8jgr5vj4b77e7n2e1dled5tijd7u88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220735967230:android:9aabffd8b1b97e41",
+        "android_client_info": {
+          "package_name": "com.homeforpets.homeforpets_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220735967230-gb06c3ml7cg064iemsg00751gm8grdou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homeforpets.homeforpets_01",
             "certificate_hash": "1376b2e8eae9c59fb6532df0c7d142fbd7826d3f"
           }
         },
